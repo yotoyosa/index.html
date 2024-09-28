@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang='uk'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Світ пончиків</title>
+    <style>
+        body { text-align: center; padding: 20px; }
+        img { width: 250px; }
+        h1 { color: red; } 
+    </style>
+</head>
+<body>
+    <h1>Світ пончиків</h1>
+    <img src="/uploads/2023/02/donut.png" alt="Пончик">
+</body>
+</html>
